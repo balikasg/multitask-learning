@@ -14,9 +14,11 @@ The data of the paper are on the `data` directory. The notebook also assumes acc
 
 ## Relevant papers
 If using the code, please cite our [arxiv paper](https://arxiv.org/pdf/1807.10076.pdf): 
+```
 @article{balikas2018concurrent,
   title={Concurrent Learning of Semantic Relations},
   author={Balikas, Georgios and Dias, Gael and Moraliyski, Rumen and Amini, Massih-Reza},
   journal={arXiv preprint arXiv:1807.10076},
   year={2018}
 }
+```
